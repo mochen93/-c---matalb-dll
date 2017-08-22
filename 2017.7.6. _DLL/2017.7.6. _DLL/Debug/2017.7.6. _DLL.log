@@ -1,0 +1,21 @@
+﻿生成启动时间为 2017/7/6 8:46:30。
+     1>项目“D:\c++ program\2017.7.6. _DLL\2017.7.6. _DLL\2017.7.6. _DLL.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _USRDLL /D MY201776_DLL_EXPORTS /D _WINDLL /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"Debug\2017.7.6. _DLL.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _USRDLL /D MY201776_DLL_EXPORTS /D _WINDLL /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\2017.7.6. _DLL.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt "2017.7.6. _DLL.cpp"
+         2017.7.6. _DLL.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _USRDLL /D MY201776_DLL_EXPORTS /D _WINDLL /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt dllmain.cpp
+         dllmain.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\c++ program\2017.7.6. _DLL\Debug\2017.7.6. _DLL.dll" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /DEF:"mydll.def" /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\c++ program\2017.7.6. _DLL\Debug\2017.7.6. _DLL.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\c++ program\2017.7.6. _DLL\Debug\2017.7.6. _DLL.lib" /MACHINE:X86 /DLL "Debug\2017.7.6. _DLL.obj"
+         Debug\dllmain.obj
+         Debug\stdafx.obj
+            正在创建库 D:\c++ program\2017.7.6. _DLL\Debug\2017.7.6. _DLL.lib 和对象 D:\c++ program\2017.7.6. _DLL\Debug\2017.7.6. _DLL.exp
+     1>2017.7.6. _DLL.exp : warning LNK4070: .EXP 中的 /OUT:MyDLL.dll 指令与输出文件名“D:\c++ program\2017.7.6. _DLL\Debug\2017.7.6. _DLL.dll”不同；忽略指令
+         2017.7.6. _DLL.vcxproj -> D:\c++ program\2017.7.6. _DLL\Debug\2017.7.6. _DLL.dll
+     1>已完成生成项目“D:\c++ program\2017.7.6. _DLL\2017.7.6. _DLL\2017.7.6. _DLL.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.96
